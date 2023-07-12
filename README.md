@@ -5,7 +5,7 @@ Issue reported here: https://github.com/ag-grid/ag-grid/issues/6853.
 
 ## Error message I'm seeing when running the app in local or building the app
 
-![Screenshot 2023-07-11 at 15 28 48](https://github.com/mbzzt/ag-grid-bug/assets/1798967/687a6187-85e8-4dbf-9a3e-c68348659fef)
+![Screenshot 2023-07-12 at 16 25 22](https://github.com/fitterfizzle/ag-grid-bug/assets/96863959/dd72387a-a67f-4d7c-b793-9dd96888b0f4)
 
 
 ## Available Scripts
